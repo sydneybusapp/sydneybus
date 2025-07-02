@@ -10,6 +10,7 @@ The Central Coast & Newcastle Line (CCN) is an important intercity rail service 
 The route is a scenic coastal road that serves the busy Central Coast region, major transport hubs and key destinations such as Gosford, Wyong and Hornsby, and is vital to commuters, tourists and regional travellers.
 
 ## General Information
+
 | **Route Name**           | Central Coast & Newcastle Line (CCN)                |
 |--------------------------|-----------------------------------------------------|
 | **Route Description**    | Newcastle Interchange → Central (via Strathfield or Gordon) |
