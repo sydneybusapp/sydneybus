@@ -6,53 +6,45 @@ comments: false
 ---
 
 <!DOCTYPE html>
-<html lang="fr">
+<html lang="en">
 
-  <p>
-    Vous avez une question, une remarque ou un signalement à faire concernant les horaires ou les itinéraires affichés sur notre site ?
-    Nous sommes à votre écoute.
-  </p>
+<body>
 
-  <h2>Nous Écrire</h2>
-  <p>
-    Pour toute demande d'information, suggestion d'amélioration ou notification d'erreur, vous pouvez nous contacter par email :
-  </p>
-  <p><strong>Email</strong> : <code>contact@horairesbus.github.io</code></p>
-  <p>Nous nous efforçons de répondre à tous les messages dans un délai de 24 à 48 heures.</p>
+  <div class="container py-5">
 
-  <h2>Collaboration et Partenariats</h2>
-  <p>
-    Vous représentez une autorité de transport, une collectivité locale ou un projet lié à la mobilité ?
-    Nous sommes ouverts aux collaborations visant à améliorer l'accessibilité des données de transport en commun.
-  </p>
-  <p>Contactez-nous à l’adresse suivante : <code>partenariats@horairesbus.github.io</code></p>
-
-  <h2>Formulaire de Contact</h2>
-
-  <form action="https://formspree.io/{{site.email}}" method="POST">    
     <p class="mb-4">
-      Merci de votre intérêt pour notre site. Veuillez nous envoyer votre message via ce formulaire. Nous vous répondrons dans les plus brefs délais.
+      Have a question, suggestion, or feedback? We'd love to hear from you. Whether you're a commuter, a developer, or someone passionate about transportation, feel free to reach out.
     </p>
 
-    <div class="row mb-3">
-      <div class="col-md-6">
-        <input class="form-control" type="text" name="name" placeholder="Nom*" required>
+    <p class="mb-4">
+      You can contact us via email at <a href="mailto:sydneybus.project@gmail.com">sydneybus.project@gmail.com</a> or use the form below to send us a direct message.
+    </p>
+
+    <h2>Contact Form</h2>
+
+    <form action="https://formspree.io/{{site.email}}" method="POST">    
+      <p class="mb-4">
+        Thank you for your interest in our site. Please send us your message through this form. We will get back to you as soon as possible.
+      </p>
+
+      <div class="row mb-3">
+        <div class="col-md-6">
+          <input class="form-control" type="text" name="name" placeholder="Name*" required>
+        </div>
+        <div class="col-md-6">
+          <input class="form-control" type="email" name="_replyto" placeholder="Email address*" required>
+        </div>
       </div>
-      <div class="col-md-6">
-        <input class="form-control" type="email" name="_replyto" placeholder="Adresse e-mail*" required>
+
+      <div class="mb-3">
+        <textarea rows="8" class="form-control" name="message" placeholder="Message*" required></textarea>
       </div>
-    </div>
 
-    <div class="mb-3">
-      <textarea rows="8" class="form-control" name="message" placeholder="Message*" required></textarea>
-    </div>
+      <input class="btn btn-dark" type="submit" value="Send">
+    </form>
 
-    <input class="btn btn-dark" type="submit" value="Envoyer">
-  </form>
-
-  <hr class="my-5">
-
-  <p><strong>Horaires Bus</strong> — Simplifions vos trajets ensemble.</p>
+    <hr class="my-5">
+  </div>
 
 </body>
 </html>
