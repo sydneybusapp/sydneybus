@@ -10,6 +10,7 @@ Blue Mountains Line (BMT) is an essential intercity rail service that is run by 
 The Blue Mountains Line has frequent services every day, which connects popular destinations like Parramatta, Penrith, Katoomba, and Mount Victoria, and other regional lines.
 
 ## General Information
+
 | **Route Name**        | Blue Mountains Line (BMT)                    |
 |-----------------------|----------------------------------------------|
 | **Route Description** | Central → Lithgow / Bathurst                |
