@@ -10,14 +10,14 @@ The Central Coast & Newcastle Line (CCN) is an important intercity rail service 
 The route is a scenic coastal road that serves the busy Central Coast region, major transport hubs and key destinations such as Gosford, Wyong and Hornsby, and is vital to commuters, tourists and regional travellers.
 
 ## General Information
-| **Route Name** | Central Coast & Newcastle Line (CCN) |
-|----------------|--------------------------------------|
-| **Route Description** | Newcastle Interchange → Central (via Strathfield or Gordon) |
-| **Total Distance** | ~160 km (Newcastle to Central) |
-| **Journey Time** | ~2.5 to 3 hours (varies by stops and route) |
-| **Operational Hours** | Approx. 2:30 AM – 12:30 AM (varies by day) |
-| **Fare** | Opal card fares apply (peak/off-peak pricing) |
-| **Official Website** | [Transport NSW](https://transportnsw.info/) |
+| **Route Name**           | Central Coast & Newcastle Line (CCN)                |
+|--------------------------|-----------------------------------------------------|
+| **Route Description**    | Newcastle Interchange → Central (via Strathfield or Gordon) |
+| **Total Distance**       | ~160 km (Newcastle to Central)                      |
+| **Journey Time**         | ~2.5 to 3 hours (varies by stops and route)         |
+| **Operational Hours**    | Approx. 2:30 AM – 12:30 AM (varies by day)          |
+| **Fare**                 | Opal card fares apply (peak/off-peak pricing)       |
+| **Official Website**     | [Transport NSW](https://transportnsw.info/)         |
 
 ### Key Details
 - **Operates:** Daily, including weekends (check holiday schedules).  
