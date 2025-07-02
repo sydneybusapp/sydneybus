@@ -10,14 +10,14 @@ Blue Mountains Line (BMT) is an essential intercity rail service that is run by 
 The Blue Mountains Line has frequent services every day, which connects popular destinations like Parramatta, Penrith, Katoomba, and Mount Victoria, and other regional lines.
 
 ## General Information
-| **Route Name** | Blue Mountains Line (BMT) |
-|----------------|----------------------------|
-| **Route Description** | Central → Lithgow / Bathurst |
-| **Total Distance** | ~155 km (Central to Lithgow) / ~214 km (Central to Bathurst) |
-| **Journey Time** | ~2 hours to Lithgow / ~3 hours to Bathurst (varies by stops) |
-| **Operational Hours** | Approx. 4:30 AM – 1:00 AM (varies by day) |
-| **Fare** | Opal card fares apply (peak/off-peak pricing) |
-| **Official Website** | [Transport NSW](https://transportnsw.info/) |
+| **Route Name**        | Blue Mountains Line (BMT)                    |
+|-----------------------|----------------------------------------------|
+| **Route Description** | Central → Lithgow / Bathurst                |
+| **Total Distance**    | ~155 km (Central to Lithgow) / ~214 km (Central to Bathurst) |
+| **Journey Time**      | ~2 hours to Lithgow / ~3 hours to Bathurst (varies by stops) |
+| **Operational Hours** | Approx. 4:30 AM – 1:00 AM (varies by day)   |
+| **Fare**              | Opal card fares apply (peak/off-peak pricing) |
+| **Official Website**  | [Transport NSW](https://transportnsw.info/) |
 
 ### Key Details
 - **Operates:** Daily, including weekends (check holiday schedules).  
