@@ -5,33 +5,45 @@ permalink: "/about/"
 image: assets/images/about-us.jpg
 ---
 
-Bienvenue sur **Horaires Bus** — votre portail en ligne dédié aux itinéraires et horaires des bus en France.
+Welcome to **SydneyBus**, your trusted online portal for exploring and navigating Australia's extensive bus and public transportation network.
 
-## Notre Mission
+## Who We Are
 
-Chez **Horaires Bus**, notre objectif est clair : offrir une plateforme accessible, rapide et conviviale pour consulter les horaires des bus dans toutes les régions de France. Nous sommes convaincus que l'accès à l'information sur les transports publics est essentiel pour une mobilité fluide et inclusive.
+**SydneyBus** is a community-driven project committed to improving how people access and understand transportation routes across cities and regions in Australia. Our goal is to simplify the journey planning process and provide up-to-date information on bus lines, stops, schedules, and connections — all in one easy-to-use platform.
 
-## Ce que Nous Proposons
+Whether you're a daily commuter, a student, a traveler, or just someone who loves maps and logistics, we’ve built this platform to make your transit experience smoother.
 
-- Horaires à jour pour les lignes de bus régionales et urbaines
-- Itinéraires détaillés avec correspondances possibles
-- Informations sur les arrêts les plus proches
-- Mise à jour continue des données pour garantir leur fiabilité
+## What We Offer
 
-## Nos Engagements
+- **Comprehensive Bus Routes:** Browse detailed maps and lists of bus lines in major cities like Sydney, Melbourne, Brisbane, and more.
+- **Timetable Access:** Check current schedules and service frequencies to help plan your trips efficiently.
+- **Smart Navigation:** Search and view routes by suburbs, stations, or route numbers.
+- **Mobile-Friendly Interface:** Optimized for quick access on the go via your smartphone or tablet.
 
-- Interface simple et adaptée à tous les appareils
-- Accès libre et sans inscription
-- Mise en valeur des lignes locales parfois négligées par d'autres services
-- Une plateforme pensée entièrement pour les usagers francophones
+## Our Mission
 
-## Nous Contacter
+Our mission is to make Australian public transport information **transparent**, **accessible**, and **reliable** for everyone. We believe that clear route information empowers people to make better travel decisions and helps reduce dependency on private vehicles.
 
-Vous avez une suggestion, une erreur à signaler ou une idée à partager ? N'hésitez pas à nous écrire.
 
-Email : `contact@horairesbus.github.io`  
-Site web : [horairesbus.github.io](https://horairesbus.github.io)
+## Expanding Beyond Sydney
+
+While the name started with a focus on Sydney, our platform is gradually expanding to include transport data from other major Australian cities and regional networks.
+
+We’re committed to building a **nationwide transport route resource**.
+
+## Get Involved
+
+This site is open-source and powered by contributions from passionate volunteers and transit enthusiasts. If you'd like to contribute, report an issue, or help expand our data coverage, visit our [GitHub Repository](https://github.com/sydneybus/sydneybus.github.io).
+
+Your feedback, ideas, and support help us grow.
+
+## Contact Us
+
+Have questions or suggestions? Reach out to us via:
+
+- **Email:** sydneybus.project@gmail.com  
+- **GitHub Issues:** [Submit Feedback](https://github.com/sydneybus/sydneybus.github.io/issues)
 
 ---
 
-Merci de votre confiance. L'équipe **Horaires Bus**
+Thank you for visiting **SydneyBus** — your transit companion across Australia.
