@@ -10,14 +10,14 @@ The T4 Eastern Suburbs & Illawarra Line is an essential Sydney Trains service th
 It branches at Hurstville, one branch ending at Cronulla and the other running through to Waterfall (and beyond to Helensburgh on some services). The T4 line is a convenient mode of transport within Sydney because it has regular services and links with other Sydney Trains lines.
 
 ## General Information
-| **Route Name** | T4 Eastern Suburbs & Illawarra Line |
-|----------------|-------------------------------------|
-| **Route Description** | Bondi Junction → Waterfall / Cronulla |
-| **Total Distance** | ~50 km (Bondi Junction to Waterfall) / ~30 km (Bondi Junction to Cronulla) |
-| **Journey Time** | ~1 hour to Waterfall / ~50 minutes to Cronulla |
-| **Operational Hours** | Approx. 4:30 AM – 1:30 AM (varies by day) |
-| **Fare** | Opal card fares apply (peak/off-peak pricing) |
-| **Official Website** | [Transport NSW](https://transportnsw.info/) |
+| **Route Name**           | T4 Eastern Suburbs & Illawarra Line                           |
+|--------------------------|---------------------------------------------------------------|
+| **Route Description**    | Bondi Junction → Waterfall / Cronulla                         |
+| **Total Distance**       | ~50 km (Bondi Junction to Waterfall) / ~30 km (Bondi Junction to Cronulla) |
+| **Journey Time**         | ~1 hour to Waterfall / ~50 minutes to Cronulla                |
+| **Operational Hours**    | Approx. 4:30 AM – 1:30 AM (varies by day)                     |
+| **Fare**                 | Opal card fares apply (peak/off-peak pricing)                 |
+| **Official Website**     | [Transport NSW](https://transportnsw.info/)                   |
 
 ### Key Details
 - **Operates:** Daily, including weekends (check holiday schedules)  
