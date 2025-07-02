@@ -1,10 +1,10 @@
 # Top Menu
 topmenu:
 
-- title: Page d'accueil
+- title: Home
   url: ""
 
-- title: À Propos
+- title: About Us
   url: "about/"
 
 - title: Contact
@@ -18,10 +18,10 @@ topmenu:
 # Footer Menu
 footermenu:
 
-- title: Page d'accueil
+- title: Home
   url: ""
 
-- title: Politique de Confidentialité
+- title: Privacy Policy
   url: "privacy-policy/"
 
 - title: Contact
