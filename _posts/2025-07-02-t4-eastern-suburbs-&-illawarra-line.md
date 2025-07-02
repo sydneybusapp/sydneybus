@@ -13,7 +13,7 @@ It branches at Hurstville, one branch ending at Cronulla and the other running t
 | **Route Name**           | T4 Eastern Suburbs & Illawarra Line                           |
 |--------------------------|---------------------------------------------------------------|
 | **Route Description**    | Bondi Junction → Waterfall / Cronulla                         |
-| **Total Distance**       | ~50 km (Bondi Junction to Waterfall) / ~30 km (Bondi Junction to Cronulla) |
+| **Total Distance**       | ~50 km (Bondi Junction to Waterfall) / ~30 km (Bondi Junct to Cronulla) |
 | **Journey Time**         | ~1 hour to Waterfall / ~50 minutes to Cronulla                |
 | **Operational Hours**    | Approx. 4:30 AM – 1:30 AM (varies by day)                     |
 | **Fare**                 | Opal card fares apply (peak/off-peak pricing)                 |
