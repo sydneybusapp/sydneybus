@@ -10,6 +10,7 @@ The T4 Eastern Suburbs & Illawarra Line is an essential Sydney Trains service th
 It branches at Hurstville, one branch ending at Cronulla and the other running through to Waterfall (and beyond to Helensburgh on some services). The T4 line is a convenient mode of transport within Sydney because it has regular services and links with other Sydney Trains lines.
 
 ## General Information
+
 | **Route Name**           | T4 Eastern Suburbs & Illawarra Line                           |
 |--------------------------|---------------------------------------------------------------|
 | **Route Description**    | Bondi Junction → Waterfall / Cronulla                         |
